@@ -35,7 +35,7 @@
   <project path="art" name="android_art" remote="bass-core" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="bass-core" groups="pdk" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="bass-core" groups="pdk" />
-  <project path="build/soong" name="android_build_soong" remote="bass-core" groups="pdk,tradefed" >
+  <project path="build/soong" name="android_build_soong" remote="los-x86" groups="pdk,tradefed" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
