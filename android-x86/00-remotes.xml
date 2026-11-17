@@ -21,5 +21,8 @@
   <remote name="bass-core"
           fetch="https://github.com/los-tv-x86"
           revision="lineage-24.0" />
+  <remote name="los-x86"
+          fetch="https://github.com/los-x86"
+          revision="lineage-24.0" />
 
 </manifest>
