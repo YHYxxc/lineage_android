@@ -20,7 +20,7 @@
   <project path="external/iptsd" name="external_iptsd" remote="los-tv-x86" />
 
   <!-- Firmware -->
-  <project path="device/generic/firmware" name="device_generic_firmware" remote="bass-core" />
+  <project path="device/generic/firmware" name="device_generic_firmware" remote="los-x86" />
   <project path="vendor/silead/proprietary/firmware" name="vendor_silead_proprietary_firmware" remote="ag-github" revision="master" />
 
   <!-- Graphics -->
